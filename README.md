@@ -1,9 +1,5 @@
 <p align="center">
-<img src="https://i.loli.net/2019/04/23/5cbeb7e41414c.png" alt="RSSHub" width="100">&emsp;&emsp;
-<svg version="1.1" height="100" viewBox="0 0 74.5 64.1">
-<path d="M37.6,0.2l37,64H0.6L37.6,0.2z"/>
-</svg>
-</p>
+<img src="https://i.loli.net/2019/04/23/5cbeb7e41414c.png" alt="RSSHub" width="100">
 <h1 align="center">RSSHub ❤ Vercel</h1>
 
 # Intro
