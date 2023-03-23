@@ -2,6 +2,10 @@
 <img src="https://i.loli.net/2019/04/23/5cbeb7e41414c.png" alt="RSSHub" width="100">
 <h1 align="center">RSSHub ❤ Vercel</h1>
 
+# Usgae
+
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/MaxChang3/rsshub-vercel)
+
 # Intro
 
 This is a tiny wrapper of [RSSHub](https://github.com/DIYgod/RSSHub) which codes from [RSSHub/api/vercel.js](https://github.com/DIYgod/RSSHub/blob/master/api/vercel.js).
