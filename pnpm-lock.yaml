@@ -3,12 +3,12 @@ lockfileVersion: 5.4
 specifiers:
   dayjs: ^1.11.7
   module-alias: ^2.2.2
-  rsshub: 1.0.0-master.7111c2c
+  rsshub: 1.0.0-master.d455801
 
 dependencies:
   dayjs: 1.11.7
   module-alias: 2.2.2
-  rsshub: 1.0.0-master.7111c2c
+  rsshub: 1.0.0-master.d455801
 
 packages:
 
@@ -3495,8 +3495,8 @@ packages:
       xml2js: 0.4.23
     dev: false
 
-  /rsshub/1.0.0-master.7111c2c:
-    resolution: {integrity: sha512-TF2Vtae41w2dNeGSLQrdiYroVuVWI/TAtLNay8gBf/I+rsFFHyRS4i1I++j2KK+szhAmO6Es8C1HJN7PKQfysw==}
+  /rsshub/1.0.0-master.d455801:
+    resolution: {integrity: sha512-ri2WLsk3/atCBEbBC432Z7uSR/exIqItJKa7+klw/24LtzSinLCDPY75NLsdfJSVC8xME9szHATiieBIu+5kVg==}
     engines: {node: '>=16'}
     dependencies:
       '@koa/router': 12.0.0
