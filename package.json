@@ -1,0 +1,15 @@
+{
+  "name": "rsshub-vercel",
+  "version": "1.0.0",
+  "description": "A wrapper of RSSHub for vercel with easy updates.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "MaxChang3",
+  "license": "MIT",
+  "dependencies": {
+    "rsshub": "1.0.0-master.7111c2c"
+  }
+}

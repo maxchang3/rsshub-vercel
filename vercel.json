@@ -1,0 +1,25 @@
+{
+    "$schema": "https://openapi.vercel.sh/vercel.json",
+    "headers": [
+        {
+            "source": "/favicon.ico",
+            "headers": [
+                {
+                    "key": "Cache-Control",
+                    "value": "public, max-age=3600"
+                }
+            ]
+        }
+    ],
+    "functions": {
+        "api/index.js": {
+            "includeFiles": "favicon.ico"
+        }
+    },
+    "rewrites": [
+        {
+            "source": "/(.*)",
+            "destination": "/api/index.js"
+        }
+    ]
+}
