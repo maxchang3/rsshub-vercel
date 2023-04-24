@@ -2,7 +2,7 @@
 <img src="https://i.loli.net/2019/04/23/5cbeb7e41414c.png" alt="RSSHub" width="100">
 <h1 align="center">RSSHub ❤ Vercel</h1>
 
-# Usgae
+# Usage
 
 [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/MaxChang3/rsshub-vercel)
 
